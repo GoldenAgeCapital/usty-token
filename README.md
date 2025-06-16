@@ -1,0 +1,2 @@
+# usty-token
+USTYToken
